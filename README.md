@@ -1,8 +1,4 @@
-https://www.twitch.tv/zurgenius (live coding probably (just for myself and friends))
-
-hope i will be good one day
-
-(some projects soon)
-
-17 y.o
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
